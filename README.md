@@ -29,7 +29,7 @@ $('#elementID').SvgToCode();
 
 ```
 
-svg.path {
+svg path {
 
 	fill: COLOR;
 
