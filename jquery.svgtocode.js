@@ -1,7 +1,7 @@
 /*
     Change in <img> tag svg file to svg source code
 
-	By Gergely Ignácz, Netgo.hu Kft (netgo.hu)
+	By Gergely Ignácz
 	Available for use under the MIT License
 	1.0.0
 */
