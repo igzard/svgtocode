@@ -45,4 +45,4 @@ Do not use more than 5-10 element, because the load will be slow
 
   
 
-* **Gergely Ignácz** - *Netgo.hu Kft* - [Visit our company site](https://netgo.hu)
+* **Gergely Ignácz** 
