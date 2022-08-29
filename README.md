@@ -37,11 +37,7 @@ svg path {
 
 ```
 
-## Warning
-
-Do not use more than 5-10 element, because the load will be slow
-
-## Authors
+## Contributors
 
   
 
