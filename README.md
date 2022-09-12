@@ -36,9 +36,3 @@ svg path {
 }
 
 ```
-
-## Contributors
-
-  
-
-* **Gergely Ignácz** 
